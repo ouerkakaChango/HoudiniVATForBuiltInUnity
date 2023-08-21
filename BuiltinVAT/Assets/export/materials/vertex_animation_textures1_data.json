@@ -1,0 +1,22 @@
+{
+    "vertex_animation_textures1": [
+        {
+            "_doubleTex": "0", 
+            "_height": ".1", 
+            "_normData": "1", 
+            "_numOfFrames": "119", 
+            "_packNorm": "1", 
+            "_packPscale": "1", 
+            "_paddedX": "1.0", 
+            "_paddedY": "1.0", 
+            "_pivMax": "3.5807376", 
+            "_pivMin": "-1.137393", 
+            "_posMax": "7.3060083", 
+            "_posMin": "-9.7751123", 
+            "_scaleMax": "0.0", 
+            "_scaleMin": "0.0", 
+            "_speed": "0.201680672269", 
+            "_width": ".1"
+        }
+    ]
+}
